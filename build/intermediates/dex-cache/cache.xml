@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_19b476cb77855211cd9468bf54095792c65d5840\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_2783ebb26344b2bc4eb2ad13c24a4f0b435692b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_738a991a59782e2ebab98b279a3e9ec806d128d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87d0587f0b974ddae94d5e626e4ecbd084961c92">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_091e1c06f00137ea99fc88705ffd930238c4b8d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a1abb773a410ab4f30473bc67d53ab9499a06f9">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_28d546f9a2e331a8778b1045a2e5e73b65f63930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_0febaf0e3467b7abb2046c7e4cacb063fc82e032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_dc5d1f002b58ffadeb76cf1998bb7ba9371c76be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_debfa20ac7504d9e381fcb19a0fdf4b3674e5245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_0abeb850c9f10081925073004efa2c7982117f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_bb6c8d1f1af861c892aa4ff3ac1d13c513b4cdca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_bd979903d891706342980ead0192fe9113363521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_b50f5b927c0cfe101024bb690198934c40863ab1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_5cf2ae60f9ee735ea53a3e11d690a8b030e374c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_1abe7daf2a4ff58666d01c0624cbef09a6536a90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.1_db23204647f89ca8636beee058bd9ed32b9ca26f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\Bibliotecas Jordi\Documents\Git\Actividad3c\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_eec19c184448824ec22b35dbd5cfe05b834b5543\classes.dex" />
+    </item>
+
+</items>
